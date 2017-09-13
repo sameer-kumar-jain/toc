@@ -1,0 +1,26 @@
+export default [
+	{
+		label:'SKU',
+		field:'sku',
+		value:'',
+		type:'text'
+	},
+	{
+		label:'Name',
+		field:'name',
+		value:'',
+		type:'text'
+	},
+	{
+		label:'Cost',
+		field:'cost',
+		value:'',
+		type:'number'
+	},
+	{
+		label:'Freight',
+		field:'freight',
+		value:'',
+		type:'number'
+	}
+]
